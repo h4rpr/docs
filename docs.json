@@ -22,9 +22,9 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Getting Started",
             "pages": [
-              "essentials/markdown",
+              "getting-started/settingupyouraccount",
               "essentials/code",
               "essentials/images",
               "essentials/settings",
