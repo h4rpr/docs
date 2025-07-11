@@ -100,3 +100,6 @@
     }
   }
 }
+"integrations": {
+    "frontchat": "b3c3a00e688bfbddb5a421db534e310b"
+}
